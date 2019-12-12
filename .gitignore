@@ -446,7 +446,6 @@ _book
 # eBook build output
 *.epub
 *.mobi
-*.pdf
 ### Matlab template
 # Windows default autosave extension
 *.asv
@@ -3122,9 +3121,6 @@ nbdist/
 # *.eps
 # *.pdf
 
-## Generated if empty string is given at "Please type another file name for output:"
-.pdf
-
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
 *.bcf
@@ -3723,7 +3719,6 @@ dist/
 # Dynamic plugins .dll
 bin/
 ### Lilypond template
-*.pdf
 *.ps
 *.midi
 *.mid
@@ -4479,7 +4474,6 @@ vc_hdrs.h
 *.bak
 *.db
 *.avi
-*.pdf
 *.ps
 *.mid
 *.midi
